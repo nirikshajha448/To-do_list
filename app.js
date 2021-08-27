@@ -8,7 +8,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
-var items = ["Exercise","Clean the room","Homework"];
+var items = ["Start the day with a smile!"];
 
 app.get("/", function (req, res) {
 
