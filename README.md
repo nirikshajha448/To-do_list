@@ -11,7 +11,7 @@ By keeping such a list, you make sure that your tasks are written down all in on
   * Once the task is done, click the checkbox
   * When checkbox is clicked, a strikethrough is put in the task name indicating it was completed
 ### Demo:
-
+![todo](https://user-images.githubusercontent.com/64370055/131177414-dc8cc915-ec7b-464b-a778-32430c447cd6.PNG)
 
 
 
