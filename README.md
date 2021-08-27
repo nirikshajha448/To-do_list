@@ -10,6 +10,8 @@ By keeping such a list, you make sure that your tasks are written down all in on
   * You can add multiple tasks
   * Once the task is done, click the checkbox
   * When checkbox is clicked, a strikethrough is put in the task name indicating it was completed
+### Demo:
+
 
 
 
